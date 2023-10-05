@@ -20,7 +20,7 @@ body {
 
 .img-container {
     width: 240px;
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(images/image-product-desktop.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 7px 0 0 7px;
